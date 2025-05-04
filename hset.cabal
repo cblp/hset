@@ -39,7 +39,6 @@ library
     , first-class-families
     , ghc-typelits-knownnat
     , ghc-typelits-natnormalise
-    , vector
   default-language: Haskell2010
 
 test-suite hset-test
@@ -59,5 +58,4 @@ test-suite hset-test
     , ghc-typelits-knownnat
     , ghc-typelits-natnormalise
     , hset
-    , vector
   default-language: Haskell2010
